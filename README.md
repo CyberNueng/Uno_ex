@@ -1,3 +1,4 @@
 # Uno_ex1
-TickTockShield, Arduino uno r3/n
+TickTockShield, Arduino uno r3. 
+
 Click game.
