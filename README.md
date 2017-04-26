@@ -1,4 +1,4 @@
-# Uno_ex1
-TickTockShield, Arduino uno r3. 
+# Uno_ex
+Arduino uno r3. ex
 
 Click game.
